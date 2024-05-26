@@ -2,5 +2,5 @@
 
 **Meu nome é Mariana Nogueira**
 
-- ```Repositório utilizado para organização dos projetos dos cursos da Alura.```
+- ```Repositório utilizado para organização dos projetos desenvolvidos nos cursos da Alura.```
 
